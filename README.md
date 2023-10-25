@@ -33,6 +33,6 @@ In this project, we executed the following SQL queries:
 
 ## Purpose
 
-The purpose of this project is to provide a hands-on demonstration of using Oracle SQL for basic and advanced SQL operations. It covers database setup, table creation, primary key and foreign key assignments, and executing complex SQL queries. Whether you are new to SQL or looking to expand your skills, this project will help you get familiarized with the basics of Oracle SQL and SQL Server.
+The purpose of this project is to provide a hands-on demonstration of using Oracle SQL for basic SQL operations. It covers database setup, table creation, primary key and foreign key assignments, and executing complex SQL queries. 
 
 Explore the project, learn SQL, and have fun exploring the exciting world of Formula 1!
