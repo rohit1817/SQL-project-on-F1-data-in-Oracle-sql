@@ -36,7 +36,3 @@ In this project, we executed the following SQL queries:
 The purpose of this project is to provide a hands-on demonstration of using Oracle SQL for basic and advanced SQL operations. It covers database setup, table creation, primary key and foreign key assignments, and executing complex SQL queries. Whether you are new to SQL or looking to expand your skills, this project will help you get familiarized with the basics of Oracle SQL and SQL Server.
 
 Explore the project, learn SQL, and have fun exploring the exciting world of Formula 1!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
